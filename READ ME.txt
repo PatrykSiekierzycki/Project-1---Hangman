@@ -1,0 +1,15 @@
+1. First version of Project 1 - Hangman contain:
+- random selection of word from words list
+- get an input from user
+- simple check of the value of user input
+-- check that the user input is a letter
+- check whether the user input is present at word to guess
+- calculate life points
+- cheking the game status: loose / win
+- display an interface
+
+2. Second version of Project 2 - Hangman contain:
+- the everything what was in version one
+- collecting miss and print them in the interface
+- print a next steps of hangman picture
+- cleaninig console
